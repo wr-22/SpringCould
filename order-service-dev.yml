@@ -11,3 +11,6 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+test:
+  number: 3000
