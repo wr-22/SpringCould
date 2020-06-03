@@ -31,6 +31,6 @@ feign:
     enabled: true
 
 test:
-  number: 5000
+  number: 6666
   
 
